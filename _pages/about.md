@@ -33,3 +33,5 @@ My current interests include robotic systems, robot learning, computer vision, s
 Before moving into robotics, I studied 3D animation, which led to my broader interests in computer graphics and simulation.
 
 I am currently building my foundations in C++, Python, robotic systems, machine vision, control, and robot learning.
+
+You can view my [CV](/cv/) for more details.

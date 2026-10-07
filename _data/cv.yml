@@ -141,14 +141,25 @@ cv:
         #   - Quantum Cryptography
         start_date: 2024.06
         end_date: 2024.09
+        url: /projects/1_project/
+
+      - name: Message Queue
+        summary: Evaluated and stress-tested a C++ message queue system, analysing its concurrency and memory-management design and benchmarking throughput of up to 520k TPS.
+        start_date: 2024.12
+        end_date: 2025.02
+        url: /projects/2_project/
 
       - name: Memory Pool
-        summary: •Implemented an memory pool in C++ to address memory fragmentation and reduce performance overhead.
-        # highlights:
-        #   - Quantum Teleportation
-        #   - Quantum Cryptography
+        summary: Implemented an memory pool in C++ to address memory fragmentation and reduce performance overhead.
         start_date: 2024.09
         end_date: 2024.12
+        url: /projects/3_project/
+
+      - name: RPG Game Demo(Unreal Engine 5)
+        summary: Implemented character movement, an animation state machine and interactive UI (clickable inventory and portrait bar) in C++ on top of Unreal's Actor and Component classes, using Live Coding for fast iteration.
+        start_date: 2025.02
+        end_date: 2025.04
+        url: https://youtu.be/vQQg61S2NvQ?si=NVBo5ZJcCNo43jmO
 
     # References:
     #   - name: 
