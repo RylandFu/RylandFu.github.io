@@ -4,12 +4,12 @@
 
 title: Ryland Fu # the website title (if blank, full name will be used instead)
 first_name: Chengcen(Ryland)
-middle_name: 
+middle_name:
 last_name: Fu
 contact_note: >
   E-mail:fuchengcen2124@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  MSc Robotics student at the University of Bristol. 
+  MSc Robotics student at the University of Bristol.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -20,7 +20,7 @@ icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://RylandFu.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button

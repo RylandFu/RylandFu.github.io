@@ -13,25 +13,24 @@ cv:
       username: Chengcen Fu
 
   address:
-    # street: 
-    # city: 
+    # street:
+    # city:
     region: Brisol
-    # postalCode: 
+    # postalCode:
     countryCode: UK
 
   sections:
     Education:
       - institution: University of Bristol
         location: Bristol, UK
-        url: 
+        url:
         area: Robotics
         studyType: MSc
         start_date: 2026
         end_date: 2027
         score: ""
-        courses: 
+        courses:
         highlights:
-        
 
       - institution: Beijing Film Academy
         location: Beijing, China
@@ -55,7 +54,7 @@ cv:
         location: Chongqing, China
         start_date: 2025.06
         end_date: 2026.01
-        summary: 
+        summary:
         highlights:
           - Built a synthetic-data generation pipeline combining SUMO traffic simulation with Blender rendering:SUMO-generated traffic flows were imported into Blender with pre-built 3D vehicle and scene assets, then rendered into RGBA image sequences via a virtual camera to produce realistic training data.
           - Optimised the rendering pipeline from full PBR to unlit shading, cutting per-frame render time from 20s to 1s — shifting the workflow from offline batch data collection to real-time, on-the-fly training data generation.
@@ -72,32 +71,31 @@ cv:
           - Implemented real-time object-interaction effects in Unreal Engine 5 using the Niagara particle system.
 
     # Volunteer:
-    #   - company: 
-    #     position: 
-    #     location: 
-    #     start_date: 
-    #     end_date: 
-    #     summary: 
+    #   - company:
+    #     position:
+    #     location:
+    #     start_date:
+    #     end_date:
+    #     summary:
     #     highlights:
 
-
     # Awards:
-    #   - title: 
+    #   - title:
     #     authors:
-    #       - 
-    #     date: 
-    #     awarder: 
-    #     url: 
-    #     summary: 
+    #       -
+    #     date:
+    #     awarder:
+    #     url:
+    #     summary:
 
     # Publications:
-    #   - title: 
+    #   - title:
     #     authors:
-    #       - 
-    #     publisher: 
-    #     releaseDate: 
-    #     url: 
-    #     summary: 
+    #       -
+    #     publisher:
+    #     releaseDate:
+    #     url:
+    #     summary:
 
     Skills:
       - name: Simulation & Engines
@@ -127,11 +125,10 @@ cv:
         keywords: "Robotic systems, Robot Learning, Computer Vision, Simulation, Embodied AI"
 
     # Certificates:
-    #   - name: 
-    #     date: 
-    #     issuer: 
-    #     icon: 
-
+    #   - name:
+    #     date:
+    #     issuer:
+    #     icon:
 
     Projects:
       - name: Distributed System based on the Raft Protocol
@@ -162,7 +159,6 @@ cv:
         url: https://youtu.be/vQQg61S2NvQ?si=NVBo5ZJcCNo43jmO
 
     # References:
-    #   - name: 
-    #     icon: 
-    #     reference: 
-
+    #   - name:
+    #     icon:
+    #     reference:
